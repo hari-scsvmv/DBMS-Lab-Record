@@ -4,7 +4,7 @@
 
 This repository contains SQL source for 10 DBMS laboratory experiments. The original PDFs are not included. Explanatory notes and expected outputs are written as SQL comments, while executable SQL/PLSQL statements remain code so GitHub can syntax-highlight them.
 
-**Source and attribution:** These lab files are based on the publicly available repository [surya-scsvmv/DBMS](https://github.com/surya-scsvmv/DBMS). Please refer to the original repository for its history and any upstream changes. No LICENSE file was present in the source repository when this copy was prepared; this README does not grant additional rights or replace any applicable permissions.
+
 
 ## Experiment files
 
