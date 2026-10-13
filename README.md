@@ -1,6 +1,6 @@
 # DBMS Laboratory Experiments
 
-**Maintained by:** Vasudeva Hari V.
+ Vasudeva Hari V.
 
 This repository contains SQL source for 10 DBMS laboratory experiments. The original PDFs are not included. Explanatory notes and expected outputs are written as SQL comments, while executable SQL/PLSQL statements remain code so GitHub can syntax-highlight them.
 
